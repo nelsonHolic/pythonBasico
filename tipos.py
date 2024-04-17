@@ -6,6 +6,7 @@ lists: list = []  # iterator
 objecto: object = object
 booleans: bool = True
 tupla: tuple = (1,)
+conjuntos: set = {1}
 
 
 def print_lists() -> None:

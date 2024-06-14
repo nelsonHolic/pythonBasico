@@ -1,7 +1,7 @@
 import cocina
 from cocina import preparar_comida
-from my_package import preparar_a
 from my_package.otra_cocina import *  # not recommended
+from my_package import preparar_a
 
 if __name__ == "__main__":
     print("Bienvenido porfavor pase")
